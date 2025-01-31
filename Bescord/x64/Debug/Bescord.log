@@ -1,0 +1,5 @@
+﻿  main.cpp
+  LoginScreen.cpp
+C:\dev\Bescord\src\LoginScreen.cpp(64,28): warning C4101: 'ip': unreferenced local variable
+  Generating Code...
+  Bescord.vcxproj -> C:\dev\Bescord\x64\Debug\Bescord.exe
