@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\LoginScreen.cpp" />
+    <ClCompile Include="src\MainScreen.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\LoginScreen.h" />
+    <ClInclude Include="include\MainScreen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
